@@ -505,6 +505,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
     An OpenAI API reverse proxy that can be deployed on Cloudflare Workers and Vercel Edge.
     Helpful for bypassing network restrictions or IP rate limits.
 
+- [AI Router](https://ai-router.dev/)
+
+    An OpenAI-compatible ChatGPT API relay for developers. Users create their own API keys, keep usage and token/cost visibility per key, and can switch existing SDKs/tools by changing the base URL to `https://api.ai-router.dev/v1`.
+
 
 ### Articles
 
