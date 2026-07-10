@@ -453,6 +453,10 @@
 
     OpenAI API反向代理，可以部署在Cloudflare Workers和Vercel Edge上。有助于绕过网络限制或IP速率限制。.
 
+- [AI Router](https://ai-router.dev/)
+
+    面向开发者的 OpenAI-compatible ChatGPT API 中转服务。用户可创建自己的 API Key，通过将 Base URL 切换到 `https://api.ai-router.dev/v1` 接入现有 SDK 和工具，并查看每个 Key 的用量与 Token/费用统计。
+
 
 ### 文章
 
